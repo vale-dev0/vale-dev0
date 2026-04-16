@@ -2,6 +2,9 @@ Portafolio de proyectos en Java Full Stack (trainee), con formación en Psicolog
 
 # 👩‍💻 Valentina Gallardo
 
+<img width="576" height="576" alt="fotocv" src="https://github.com/user-attachments/assets/f94d99f3-0950-4dff-8802-8b9fd4ada3d6" />
+
+
 ### 🚀 Java Full Stack Trainee
 
 ---
