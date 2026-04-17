@@ -25,6 +25,10 @@ Tengo formación en psicología, lo que me permite entender mejor a los usuarios
  y operaciones CRUD para la persistencia de datos
 - Java EE (JEE), Servlets, JSP, JSTL, JDBC, MySQL, Apache Tomcat
 
+### 🔹 SpringEduManager Aplicación web integral de gestión académica
+• Administración de estudiantes, cursos y evaluaciones • Operaciones CRUD completas • Sistema de seguridad con roles (ADMIN / USER) • Exposición de datos mediante API RESTful
+•Java, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST (JSON), Maven, H2, Thymeleaf
+
 ---
 
 ## 🛠️ Skills
