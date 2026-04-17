@@ -57,7 +57,8 @@ Tengo formación en psicología, lo que me permite entender mejor a los usuarios
 
 - ## Caso de Estudio
 
-### Biblioteca Digital UNTEC
+
+### [Biblioteca Digital UNTEC](https://github.com/vale-dev0/biblioteca_untec)
 
 #### Breve descripción de la actividad 
 Proyecto de desarrollo de una aplicación web para digitalizar la gestión de libros, usuarios y préstamos de una biblioteca.
