@@ -51,3 +51,37 @@ Tengo formación en psicología, lo que me permite entender mejor a los usuarios
 ## 📫 Contacto
 - Email: v.gallardoespinosa@gmail.com
 - GitHub: https://github.com/vale-dev0/
+
+
+-----------------------------------------------------------------------
+
+- ## Caso de Estudio
+
+### Biblioteca Digital UNTEC
+
+#### Breve descripción de la actividad 
+Proyecto de desarrollo de una aplicación web para digitalizar la gestión de libros, usuarios y préstamos de una biblioteca.
+
+#### Desafío principal
+Transformar un sistema manual de biblioteca en una plataforma digital funcional, ordenada y fácil de usar.
+
+#### Solución propuesta
+Se desarrolló una aplicación web con patrón MVC, operaciones CRUD, manejo de sesiones y persistencia de datos con JDBC.
+
+#### Herramientas técnicas utilizadas
+Java EE, JSP, JSTL, JDBC, MySQL, Apache Tomcat, Eclipse.
+
+#### Principales aprendizajes alcanzados
+Comprensión de arquitectura MVC, manejo de sesiones, vistas dinámicas y conexión con base de datos.
+
+#### Métricas de impacto logradas
+- Digitalización del flujo de préstamos y devoluciones
+- Mejor organización de la información
+- Estructura más mantenible
+- Base preparada para seguir creciendo
+
+#### Habilidades técnicas aplicadas
+Java, POO, JDBC, MVC, JSP, JSTL, manejo de sesiones, MySQL.
+
+#### Justificación de por qué elegí este proyecto
+Elegí este proyecto porque representa un avance importante en mi desarrollo técnico y reúne varias habilidades backend en un caso práctico.
